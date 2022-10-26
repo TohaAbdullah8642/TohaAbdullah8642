@@ -2,16 +2,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
   <a href="www.facebook.com/TohaAE2019">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FACEBOOK"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FACEBOOK"/>
   </a>
   <a href="www.youtube.com/TohaAbdullah">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YOUTUBE"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YOUTUBE"/>
   </a>
   <a href="www.snapchat.com/add/TohaABDSys">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="Snapchat"/>
   </a>
-    <a href="www.https://open.spotify.com/user/7rqo40pbyo1iaj8crtmzvrpy2">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <a href="www.https://open.spotify.com/user/7rqo40pbyo1iaj8crtmzvrpy2">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TohaAbdullah8642&style=flat-square&color=blue" alt="You, Visited My profile"/>
